@@ -75,7 +75,7 @@ export const AuthForm = ({
             name='email'
             type='email'
             value={values.email}
-            onChange={(value) => onChange('email', value)}
+            onChange={(value: string) => onChange('email', value)}
             placeholder='Введите email'
             className={styles.input}
             errorText={emailErr}
@@ -90,7 +90,7 @@ export const AuthForm = ({
             name='password'
             type='password'
             value={values.password}
-            onChange={(value) => onChange('password', value)}
+            onChange={(value: string) => onChange('password', value)}
             placeholder={passwordPlaceholder}
             className={styles.input}
             errorText={passErr}

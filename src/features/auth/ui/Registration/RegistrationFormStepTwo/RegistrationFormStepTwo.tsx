@@ -44,7 +44,7 @@ export const RegistrationFormStepTwo: FC<RegistrFormStepTwoProps> = ({
         type='text'
         placeholder='Введите ваше имя'
         value={values.name}
-        onChange={(val) => onChange('name', val)}
+        onChange={(val: string) => onChange('name', val)}
         className={styles.field}
       />
 

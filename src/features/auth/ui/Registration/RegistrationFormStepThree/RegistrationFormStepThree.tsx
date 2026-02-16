@@ -41,7 +41,7 @@ export const RegistrationFormStepThree: FC<RegistrFormStepThreeProps> = ({
           name='skillName'
           type='text'
           value={values.skillName}
-          onChange={(val) => onChange('skillName', val)}
+          onChange={(val: string) => onChange('skillName', val)}
           placeholder='Введите название вашего навыка'
           className={styles.input}
           errorText={skillNameErrorText}
