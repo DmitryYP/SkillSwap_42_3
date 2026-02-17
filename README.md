@@ -1,4 +1,47 @@
-# SkillSwap
+# 🤝 Skill Swap
+
+**Платформа для взаимного обмена навыками.**
+
+> ⚠️ **Командный проект**. Платформа для взаимного обмена навыками - одностраничное веб-приложение (SPA) по модели «Я научу / Хочу научиться».
+
+🔗 [🚀 Посмотреть демо](https://skill-swap-42-3.vercel.app/)
+
+---
+
+## 👨‍💻 Мой вклад в проект
+
+### 🧱 Разработка UI-компонентов
+- **Модальное окно** — универсальный компонент с логикой открытия/закрытия
+- **Формы и элементы управления** — поиск, кнопки, чекбоксы, текстовые поля, календарь
+- **Dropdown** — меню для перехода в личный кабинет
+
+### ⚙️ Логика и хуки
+- **Кастомные хуки** — вынесение переиспользуемой логики
+- **Интерактив** — обработка лайков и кнопки «Предложить обмен»
+- **Валидация** — проверка ввода в формах
+
+### 🎨 Стилизация и поддержка кода
+- **CSS-переменные** — настройка дизайн-системы и темизации
+- **Шрифты** — подключение и оптимизация
+- **Рефакторинг** — улучшение и оптимизация компонентов, написанных коллегами
+- **Layouts** — разработка базовой структуры страниц
+
+---
+
+## 🛠 Стек технологий
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
 
 ## Инструкция по запуску
 
